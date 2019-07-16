@@ -3,7 +3,8 @@ module.exports = {
     env: {
         node: true
     },
-    extends: ["plugin:vue/essential", "@vue/prettier", "@vue/typescript"],
+    extends: ["plugin:vue/essential","plugin:prettier/recommended",
+    "eslint:recommended"],
     rules: {
         'prettier/prettier':[
             'error',
