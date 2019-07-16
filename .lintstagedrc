@@ -2,3 +2,4 @@
   "src/**/*.ts": ["prettier --write", "git add"],
   "src/**/*.vue": ["prettier --write", "git add"]
 }
+
