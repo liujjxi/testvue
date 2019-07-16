@@ -3,7 +3,7 @@ module.exports = {
     env: {
         node: true
     },
-    extends: ["plugin:vue/essential", "@vue/prettier", "@vue/typescript"],
+    // extends: ["plugin:vue/essential", "@vue/prettier", "@vue/typescript"],
     rules: {
         'semi': ['error', 'never'], // 行尾不使用分号
         "newline-after-var": ['error'], //变量声明后必须空一行
