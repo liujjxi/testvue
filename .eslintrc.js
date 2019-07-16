@@ -8,9 +8,8 @@ module.exports = {
         'prettier/prettier':[
             'error',
             {
-                'semi': ['error', 'never'], // 行尾不使用分号
-                "newline-after-var": ['error'], //变量声明后必须空一行
-                "quotes": ["error", "single"]            }
+                "singleQuote": true
+            }
         ],
         "no-console": process.env.NODE_ENV === "production" ? "error" : "off",
         "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off"
