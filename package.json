@@ -17,6 +17,8 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.1.0",
+    "@commitlint/config-angular": "^8.1.0",
     "@vue/cli-plugin-babel": "^3.9.0",
     "@vue/cli-plugin-eslint": "^3.9.0",
     "@vue/cli-plugin-pwa": "^3.9.0",
@@ -34,6 +36,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "gitHooks": {
-    "pre-commit": "lint-staged"
+    "pre-commit": "lint-staged",
+    "commit-msg": "commitlint -E GIT_PARAMS"
   }
 }
