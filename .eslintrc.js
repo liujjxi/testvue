@@ -7,7 +7,7 @@ module.exports = {
     rules: {
         'semi': ['error', 'never'], // 行尾不使用分号
         "newline-after-var": ['error'], //变量声明后必须空一行
-        "quotes": ["error", "double"],
+        "quotes": ["error", "single"],
         "no-console": process.env.NODE_ENV === "production" ? "error" : "off",
         "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off"
     },
