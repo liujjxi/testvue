@@ -15,6 +15,7 @@
 ### Performance Improvements
 
 * ad ([c44c148](https://github.com/liujjxi/testvue/commit/c44c148))
+* test ([7ec270e](https://github.com/liujjxi/testvue/commit/7ec270e))
 
 
 ### Reverts
