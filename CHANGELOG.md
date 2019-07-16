@@ -10,6 +10,7 @@
 ### Features
 
 * New features ([6b76158](https://github.com/liujjxi/testvue/commit/6b76158))
+* test log ([a5a3091](https://github.com/liujjxi/testvue/commit/a5a3091))
 
 
 ### Performance Improvements
