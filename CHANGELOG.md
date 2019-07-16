@@ -4,6 +4,7 @@
 ### Bug Fixes
 
 * changelog ([94a6e66](https://github.com/liujjxi/testvue/commit/94a6e66))
+* test ([61f3503](https://github.com/liujjxi/testvue/commit/61f3503))
 
 
 ### Features
