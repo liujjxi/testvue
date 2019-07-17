@@ -4,7 +4,7 @@ module.exports = {
     node: true
   },
   globals:{
-    "window": true
+    "kkk": true
   },
   extends: [
     'plugin:vue/essential',
