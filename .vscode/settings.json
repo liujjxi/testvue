@@ -1,0 +1,8 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "onWindowChange",
+  "eslint.autoFixOnSave": true,
+  "files.autoGuessEncoding": true,
+  "prettier.singleQuote": true
+}
