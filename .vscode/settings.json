@@ -1,7 +1,9 @@
 {
-    "git.ignoreLimitWarning": true,
-    "editor.tabSize": 2,
-    "files.autoSave": "onWindowChange",
-    "eslint.autoFixOnSave": true,
-    "editor.formatOnSave": true
+  "git.ignoreLimitWarning": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "onWindowChange",
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": false,
+  "files.autoGuessEncoding": true,
+  "prettier.singleQuote": true
 }
