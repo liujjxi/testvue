@@ -1,0 +1,8 @@
+diff a/ikun/src/main.ts b/ikun/src/main.ts	(rejected hunks)
+@@ -3 +3 @@ import App from './App.vue'
+-import router from './router';
++import router from './router'
+@@ -11 +11 @@ new Vue({
+-}).$mount('#app')
+\ No newline at end of file
++}).$mount('#app')
