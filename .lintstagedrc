@@ -1,4 +1,4 @@
 {
-  "ikun/**/*.ts": ["prettier --write", "git add"],
-  "ikun/**/*.vue": ["prettier --write", "git add"]
+  "ikun/src/**/*.ts": ["prettier --write", "git add"],
+  "ikun/src/**/*.vue": ["prettier --write", "git add"]
 }

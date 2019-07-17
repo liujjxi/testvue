@@ -19,7 +19,6 @@
     "commit-msg": "commitlint -E GIT_PARAMS"
   },
   "dependencies": {
-    "nvm": "^0.0.4",
     "yorkie": "^2.0.0"
   }
 }
