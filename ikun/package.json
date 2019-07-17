@@ -36,11 +36,5 @@
     "sass-loader": "^7.1.0",
     "typescript": "^3.4.3",
     "vue-template-compiler": "^2.6.10"
-  },
-  "gitHooks": {
-    "pre-commit": "lint-staged",
-    "commit-msg": "commitlint -E GIT_PARAMS"
-  },
-  "main": "index.js",
-  "license": "MIT"
+  }
 }
